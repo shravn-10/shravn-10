@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Shravan Motamarri</h1>
 <h3 align="center">A Pre-final year student learning new things every day and exploring the vast field of Computer Science. CSE student at NMIT, Bangalore.</h3>
 
+- I am currently learning about **Linux**
+
 -  👨‍💻 All of my projects are available at [https://shravn-10.github.io/](https://shravn-10.github.io/)
 
 - 📫 How to reach me **saishravan2003@gmail.com**
